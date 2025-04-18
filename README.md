@@ -1,6 +1,6 @@
 # Web Development Project 7 - *Sidemen Charity Match Simulator*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ishan Roy**
 
 This web app: **A CRUD based website that allows you to create your own version of the Sidemen Charity Match.**
 
